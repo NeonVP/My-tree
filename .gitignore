@@ -1,0 +1,7 @@
+/.cache
+/dump
+*.json
+*.dot
+*.png
+tree-debug
+tree
